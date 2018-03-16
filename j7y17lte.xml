@@ -2,7 +2,7 @@
 <manifest>
 
   <!-- Device trees -->
-  <project name="I-dont-know6/android_device_samsung_j7y17lte-rebase" path="device/samsung/j7y17lte" remote="github" revision="lineage-15.1" />
+  <project name="Exynos7870/android_device_samsung_j7y17lte" path="device/samsung/j7y17lte" remote="github" revision="lineage-15.1" />
   <project name="exynos7870/android_device_samsung_exynos7870-common" path="device/samsung/exynos7870-common" remote="github" revision="lineage-15.1" />
 
   <!-- Vendor tree -->
@@ -12,7 +12,7 @@
   <project name="I-dont-know6/kernel_samsung_exynos7870" path="kernel/samsung/exynos7870" remote="github" revision="lineage-15.1" />
 
   <!-- Common Samsung repo -->
-  <project name="I-dont-know6/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-15.1" />
+  <project name="Exynos7870/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-15.1" />
 
   <!-- Older Hardware repos -->
   <project name="exynos7870/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="lineage-15.1" />
