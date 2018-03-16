@@ -9,7 +9,7 @@
   <project name="exynos7870/android_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-15.1" />
 
   <!-- Kernel source -->
-  <project name="I-dont-know6/kernel_samsung_exynos7870" path="kernel/samsung/exynos7870" remote="github" revision="lineage-15.1" />
+  <project name="I-dont-know6/kernel_j7y17lte" path="kernel/samsung/exynos7870" remote="github" revision="lineage-15.1" />
 
   <!-- Common Samsung repo -->
   <project name="Exynos7870/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-15.1" />
